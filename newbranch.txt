@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 empty
 git 
+=======
+creted this from newbranch
+>>>>>>> 9223fd7b06e16bdcbe396537d4792ba7887d1c4e
